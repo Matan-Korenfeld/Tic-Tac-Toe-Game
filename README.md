@@ -2,7 +2,7 @@
 
 This is an inverse tic tac toe game! (The player wins if the opponent gets n in a row).
 
- ## Features:
+ #### Features:
 
 * Custom board size (3x3 - 9x9)
 *  Three AI difficulties.
